@@ -1,5 +1,6 @@
 # hello-world
-Just trying VSC
+New log
+Trying VSC
 
 
 This will be the second edition
